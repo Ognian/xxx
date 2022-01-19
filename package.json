@@ -1,0 +1,15 @@
+{
+  "name": "xxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna-force-publish-version (doesn't work via Webstorm, only copy and paste in Terminal...)": "lerna version --force-publish"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
